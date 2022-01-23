@@ -37,8 +37,8 @@ plugins:
 destination: blog
 
 footer_icons:
-- username: aterenin/minima-reboot/
-  url: https://github.com/aterenin/minima-reboot/
+- username: ahalf-yuan
+  url: https://github.com/ahalf-yuan/Tech-English-Docs
   icon: icon-github.svg
 
 # Exclude from processing.

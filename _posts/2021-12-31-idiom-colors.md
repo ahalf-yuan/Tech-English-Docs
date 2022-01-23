@@ -1,13 +1,11 @@
 ---
-layout: default
-title: Idioms about Colors
+layout: plain
+title: "【趣味俚语】Idioms about Colors"
 
 head_inline: "<style>#nav-header { height: 0;opacity: 0; }h1{font-size:22px;padding:16px 0}h4{font-size:20px;border-left:4px solid #41d9b5;padding:0 8px;line-height:28px}blockquote{background:#f0f8ff}body{overflow-x:hidden}img{max-width:320rem}h5{color:#00bcd4}</style>"
 ---
 
-# 【趣味俚语】Idioms about Colors
-
-![](imgs/idiom_colors.png)
+![](/blog/imgs/idiom_colors.png)
 
 <h5>1. see through rose-tinted glasses</h5>
 
