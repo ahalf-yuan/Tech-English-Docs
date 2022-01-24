@@ -38,7 +38,7 @@ destination: blog
 
 footer_icons:
 - username: ahalf-yuan
-  url: https://github.com/ahalf-yuan/Tech-English-Docs
+  url: ""
   icon: icon-github.svg
 
 # Exclude from processing.

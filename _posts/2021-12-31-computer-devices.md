@@ -21,7 +21,7 @@ head_inline: "<style>#nav-header { height: 0;opacity: 0; }h1{font-size:22px;padd
 
 |  图片  | 英文  |  中文  |
 |  ----  | ----  |  ---- |
-| ![img](/blog/imgs/computer/cpu.svg)  | Central Processing Unit (CPU). | 句号 |
+| ![img](/blog/imgs/computer/cpu.svg)  | Central Processing Unit (CPU). | 中央处理器 |
 
 
 #### Output Devices:
