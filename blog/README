@@ -1,0 +1,6 @@
+### dev
+`bundle exec jekyll serve`
+
+### build  
+`jekyll build`
+

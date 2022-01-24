@@ -3,9 +3,9 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../private/var/folders/pj/qlr66n2j6cv80klj6jct8nbr0000gn/T/jekyll-remote-theme-20220123-92451-29txev/_sass/minima-reboot.scss",
-		"../../../../private/var/folders/pj/qlr66n2j6cv80klj6jct8nbr0000gn/T/jekyll-remote-theme-20220123-92451-29txev/_sass/minima-reboot/_layout.scss",
-		"../../../../private/var/folders/pj/qlr66n2j6cv80klj6jct8nbr0000gn/T/jekyll-remote-theme-20220123-92451-29txev/_sass/minima-reboot/_syntax-highlighting.scss"
+		"../../../../private/var/folders/pj/qlr66n2j6cv80klj6jct8nbr0000gn/T/jekyll-remote-theme-20220124-85765-v1quku/_sass/minima-reboot.scss",
+		"../../../../private/var/folders/pj/qlr66n2j6cv80klj6jct8nbr0000gn/T/jekyll-remote-theme-20220124-85765-v1quku/_sass/minima-reboot/_layout.scss",
+		"../../../../private/var/folders/pj/qlr66n2j6cv80klj6jct8nbr0000gn/T/jekyll-remote-theme-20220124-85765-v1quku/_sass/minima-reboot/_syntax-highlighting.scss"
 	],
 	"sourcesContent": [
 		"@import \"minima-reboot\";\n\n",

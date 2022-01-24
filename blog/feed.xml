@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2022-01-23T13:36:05+08:00</updated><id>/blog/feed.xml</id><title type="html">WordBoom</title><subtitle></subtitle><entry><title type="html">Computer Osi Model</title><link href="/blog/2021/12/31/computer-OSI-model.html" rel="alternate" type="text/html" title="Computer Osi Model" /><published>2021-12-31T00:00:00+08:00</published><updated>2021-12-31T00:00:00+08:00</updated><id>/blog/2021/12/31/computer-OSI-model</id><content type="html" xml:base="/blog/2021/12/31/computer-OSI-model.html"><![CDATA[---
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2022-01-24T12:20:11+08:00</updated><id>/blog/feed.xml</id><title type="html">WordBoom</title><subtitle></subtitle><entry><title type="html">Computer Osi Model</title><link href="/blog/2021/12/31/computer-OSI-model.html" rel="alternate" type="text/html" title="Computer Osi Model" /><published>2021-12-31T00:00:00+08:00</published><updated>2021-12-31T00:00:00+08:00</updated><id>/blog/2021/12/31/computer-OSI-model</id><content type="html" xml:base="/blog/2021/12/31/computer-OSI-model.html"><![CDATA[---
 layout: null
 title: "OSI 7层模型和TCP/IP 4层模型"
 
@@ -735,7 +735,7 @@ c). post-order traversal (后序遍历)</li>
     <tr>
       <td><img src="/blog/imgs/computer/cpu.svg" alt="img" /></td>
       <td>Central Processing Unit (CPU).</td>
-      <td>句号</td>
+      <td>中央处理器</td>
     </tr>
   </tbody>
 </table>
